@@ -1,0 +1,10 @@
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\bin\Debug\02-AtYarisiOyunu.exe.config
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\bin\Debug\02-AtYarisiOyunu.exe
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\bin\Debug\02-AtYarisiOyunu.pdb
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\obj\Debug\02-AtYarisiOyunu.csproj.AssemblyReference.cache
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\obj\Debug\_02_AtYarisiOyunu.Form1.resources
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\obj\Debug\_02_AtYarisiOyunu.Properties.Resources.resources
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\obj\Debug\02-AtYarisiOyunu.csproj.GenerateResource.cache
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\obj\Debug\02-AtYarisiOyunu.csproj.CoreCompileInputs.cache
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\obj\Debug\02-AtYarisiOyunu.exe
+C:\Users\marha\OneDrive\Masaüstü\boost kd 11\KendiCozumlerim\02-AtYarisiOyunu\02-AtYarisiOyunu\obj\Debug\02-AtYarisiOyunu.pdb
